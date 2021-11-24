@@ -7,5 +7,7 @@ Red Hat OpenShift on IBM Cloud provides fully managed OpenShift clusters running
 Click any one of the links to try the hands-on Lab
 
 https://learn.openshift.com/playgrounds/
+
 https://www.katacoda.com/courses/openshift/playgrounds/openshift45
-https://www.katacoda.com/courses/openshift/playgrounds/openshift45
+
+https://www.katacoda.com/courses/openshift/playgrounds/openshift47
